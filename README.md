@@ -1,6 +1,6 @@
 # Cyberpunk iTerm
 
-> 👾 Hacker colorscheme for iTerm
+> Cyberpunk colorscheme for iTerm
 
 ![preview](./preview.png)
 _Tools used in preview: `exa`, `neofetch`, `httpie`, and `jq`._
